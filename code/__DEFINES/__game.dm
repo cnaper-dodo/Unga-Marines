@@ -17,6 +17,7 @@
 #define MAP_DELTA_STATION "Delta Station"
 #define MAP_OSCAR_OUTPOST "Oscar Outpost"
 #define MAP_KUTJEVO_REFINERY "Kutjevo Refinery"
+#define MAP_ICARUS_PORT "Icarus military port"
 #define MAP_TALOS "Talos"
 
 #define SEE_INVISIBLE_MINIMUM 5

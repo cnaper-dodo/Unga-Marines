@@ -21,6 +21,7 @@
 		#include "map_files\Lawanka_Outpost\LawankaOutpost.dmm"
 		#include "map_files\slumbridge\slumbridge.dmm"
 		#include "map_files\Talos\TGS_Talos.dmm"
+		#include "map_files\Icarus_military_port\icarus_military_port.dmm"
 		#ifdef CIBUILDING
 			#include "templates.dm"
 		#endif
